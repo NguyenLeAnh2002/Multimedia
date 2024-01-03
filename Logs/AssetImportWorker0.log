@@ -150,3 +150,10 @@ Received Import Request.
   path: Assets/buggy/buggy_diff.tga
   artifactKey: Guid(f16b674b0effd47488a3837dd3172644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/buggy/buggy_diff.tga using Guid(f16b674b0effd47488a3837dd3172644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9422b9d6f76777093d901f68044e530') in 0.018407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 796.443053 seconds.
+  path: Assets/script/explosion.cs
+  artifactKey: Guid(cacb04f851da2264fbd1debce5910002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/explosion.cs using Guid(cacb04f851da2264fbd1debce5910002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df281975a1aa9e3eea8e383d37c5fcfc') in 0.020114 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
